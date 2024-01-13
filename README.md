@@ -21,5 +21,3 @@ To run the tests for the JSON parser tool, go to the root directory of this repo
 ```bash
 ts-node src/tests/json_parser_test.ts
 ```
-
-All the tests are made for **LINUX** environment only. If you want to run the tests in Windows environment, you can use the Git Bash terminal or Windows Subsystem for Linux (WSL).
